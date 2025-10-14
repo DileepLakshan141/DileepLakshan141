@@ -1,4 +1,4 @@
-# 👨‍💻 Dileep Lakshan
+# 👨‍💻 Dileepa Lakshan
 
 🚀 Full-Stack Software Engineer | MERN | DevOps | Cloud Enthusiast  
 🎯 Passionate about crafting scalable SaaS apps, automation, and clean architecture.  
