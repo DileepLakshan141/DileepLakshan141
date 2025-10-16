@@ -1,8 +1,8 @@
 # 👨‍💻 Dileepa Lakshan
 
 🚀 Full-Stack Software Engineer | MERN | DevOps | Cloud Enthusiast  
-🎯 Passionate about crafting scalable SaaS apps, automation, and clean architecture.  
-🧠 Critical thinker focused on building efficient and maintainable systems.  
+🎯 Passionate about crafting tailor-made software solutions with automation and scalability in mind.  
+🧠 Critical thinker focused on building efficient, maintainable, and user-centric systems.
 
 ---
 
@@ -13,14 +13,6 @@
 **Database:** MongoDB, MySQL, PostgreSQL, Redis  
 **DevOps & Tools:** Docker, Git, Nginx, AWS, Render, Vercel  
 **Other:** C#, Java, Kotlin, Firebase, Figma, Adobe XD  
-
----
-
-## 📈 GitHub Stats
-
-| | |
-|:-:|:-:|
-| ![](https://github-readme-stats.vercel.app/api?username=DileepLakshan141&show_icons=true&theme=radical&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DileepLakshan141&theme=radical&hide_border=true) |
 
 ---
 
