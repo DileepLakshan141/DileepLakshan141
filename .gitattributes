@@ -1,0 +1,9 @@
+*.cs linguist-detectable=false
+*.java linguist-detectable=false
+*.cpp linguist-detectable=false
+# Keep your actual main languages
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
+*.ts linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
